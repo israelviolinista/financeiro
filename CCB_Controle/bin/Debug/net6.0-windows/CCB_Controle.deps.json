@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CCB_Controle/1.0.0": {
+        "runtime": {
+          "CCB_Controle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CCB_Controle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

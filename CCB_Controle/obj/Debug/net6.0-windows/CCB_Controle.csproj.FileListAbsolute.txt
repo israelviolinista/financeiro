@@ -1,0 +1,17 @@
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\bin\Debug\net6.0-windows\CCB_Controle.exe
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\bin\Debug\net6.0-windows\CCB_Controle.deps.json
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\bin\Debug\net6.0-windows\CCB_Controle.runtimeconfig.json
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\bin\Debug\net6.0-windows\CCB_Controle.dll
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\bin\Debug\net6.0-windows\CCB_Controle.pdb
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.csproj.AssemblyReference.cache
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.Principal.resources
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.csproj.GenerateResource.cache
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.AssemblyInfoInputs.cache
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.AssemblyInfo.cs
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.csproj.CoreCompileInputs.cache
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.dll
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\refint\CCB_Controle.dll
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.pdb
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\CCB_Controle.genruntimeconfig.cache
+C:\Users\uegis\source\repos\CCB_Controle\CCB_Controle\obj\Debug\net6.0-windows\ref\CCB_Controle.dll
